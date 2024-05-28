@@ -1,0 +1,9 @@
+matplotlib
+tensorflow==2.15.0
+numpy
+scikit-image
+scikit-learn
+albumentations
+opencv-python
+segmentation-models
+pandas
